@@ -1,8 +1,8 @@
 body{
-  background-color: #423F3F;
+  background-color: red;
 }
 .botonMenu{
-  border-radius:2em;
+  border-radius:5px;
   width:80px;
   height: 120px;
 }
@@ -16,4 +16,8 @@ text-align: center;
 .logo{
   width: 150px;
   text-align: center;
+<<<<<<< HEAD
 }
+=======
+}#423F3F
+>>>>>>> 8fd88643c297f808e905b906c9a64cb08c7625ba
