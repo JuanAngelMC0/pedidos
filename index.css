@@ -1,7 +1,7 @@
 body{
   background-color: #423F3F;
 }
-.botonRedondeado{
+.botonMenu{
   border-radius:2em;
   width:80px;
   height: 120px;
@@ -12,4 +12,7 @@ text-align: center;
 .seccion{
   background-color: orange;
   text-align: center;
+}
+.logo{
+  width: 100px;
 }
